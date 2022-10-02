@@ -36,7 +36,7 @@ xaringanExtra :: use_panelset()
 #| intro, 
 #| echo=FALSE, 
 #| out.width = "65%"
-knitr::include_graphics("img/text.jpg")
+knitr::include_graphics("img/website-construction.jpeg")
 ```
 
 

@@ -19,6 +19,8 @@
   --custom-lightblue: rgb(204, 227, 242);
   --custom-orange: rgb(255, 127, 42);
   --custom-lightorange: rgb(255, 204, 170);
+  --custom-black: rgb(0, 0, 0);
+
 }
 
 html {
@@ -71,14 +73,14 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       var(--custom-blue);
+  --bkgd-color:       var(--custom-black);
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       var(--custom-blue);
+  --bkgd-color:       var(--custom-black);
 }
 
 /*-- Additional custom styles --*/
@@ -86,17 +88,17 @@ d-appendix {
 
 .preface {
   font-size: 11pt;
-  background-color: var(--custom-lightblue);
+  background-color: var(--custom-grey20);
   margin-top: 1em;
   margin-bottom: 0.5em;
   padding: 1.5em;
   padding-top: 0.5em;
-  border-color: DodgerBlue;
+  border-color: black;
 }
 
 h1 {
   font-size: 30px !important;
-  color: var(--custom-blue) !important;
+  color: var(--custom-black) !important;
   font-family: NanumSquare !important;
   margin-top: 15px !important;
   padding-top: 15px !important;
@@ -106,7 +108,7 @@ h1 {
 
 h2 {
   font-size: 25px !important;
-  color: var(--custom-blue) !important;
+  color: var(--custom-black) !important;
   font-family: NanumSquare !important;
   padding-top: 15px !important;
   margin-top: 15px !important;
@@ -117,7 +119,7 @@ h2 {
 
 h3 {
   font-size: 20px !important;
-  color: var(--custom-blue) !important;
+  color: var(--custom-black) !important;
   font-family: NanumSquare !important;
   margin-top: 10px !important;
   margin-bottom: 10px !important;
