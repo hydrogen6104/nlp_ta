@@ -11,7 +11,7 @@ output:
 author:
   - name: 김현채 
     url: https://www.instagram.com/hyunchai_kim/
-    affiliation: 명지대 기록과학정보전문대학원
+    affiliation: 명지대 기록정보과학전문대학원
     affiliation_url: https://record.mju.ac.kr/   
 date: "2022/10/02" 
 ---
